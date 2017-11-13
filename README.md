@@ -1,2 +1,3 @@
-# 04_BattleTank
-Unreal Course Project featuring a head to head tank fight, simple AI and terrain
+# BattleTank
+Unreal Course Project
+An Open-World head to head tank fight, with simple AI and terrain and controls
